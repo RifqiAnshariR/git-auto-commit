@@ -1,2 +1,2 @@
-& "C:\Users\ansha\Documents\PRACTICE\Python\Git_Auto_Commit\.venv\Scripts\Activate.ps1"
-python "C:\Users\ansha\Documents\PRACTICE\Python\Git_Auto_Commit\main.py"
+& "<absolute path to .venv file>.ps1"
+python "<absolute path to main.py file>"
